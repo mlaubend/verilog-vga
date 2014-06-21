@@ -1,0 +1,3 @@
+SUMMARY:
+
+Code for a VGA controller.  If run on a spartan6, it will show an eight segment display on the monitor.  Pushing a button will increment the counter on the screen. 
